@@ -1,4 +1,11 @@
+<img src='images/github_profile_banner.png' alt="mocadev1 banner"></img>
+___
+
 ## Hi there 👋
+Omar Beltran here.
+
+___
+- ⚡ Fun fact: The longer distance I've skated is 63 km.
 
 <!--
 **mocadev1/mocadev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
